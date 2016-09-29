@@ -1,0 +1,18 @@
+C:\Users\Co-op\Documents\Visual Studio 2015\Projects\3DColorStreamRealSenseSR300\3DColorStreamRealSenseSR300\bin\Debug\Face Detection Camera.exe.config
+C:\Users\Co-op\Documents\Visual Studio 2015\Projects\3DColorStreamRealSenseSR300\3DColorStreamRealSenseSR300\bin\Debug\Face Detection Camera.exe
+C:\Users\Co-op\Documents\Visual Studio 2015\Projects\3DColorStreamRealSenseSR300\3DColorStreamRealSenseSR300\bin\Debug\Face Detection Camera.pdb
+C:\Users\Co-op\Documents\Visual Studio 2015\Projects\3DColorStreamRealSenseSR300\3DColorStreamRealSenseSR300\bin\Debug\libpxcclr.cs.dll
+C:\Users\Co-op\Documents\Visual Studio 2015\Projects\3DColorStreamRealSenseSR300\3DColorStreamRealSenseSR300\obj\Debug\MainWindow.g.cs
+C:\Users\Co-op\Documents\Visual Studio 2015\Projects\3DColorStreamRealSenseSR300\3DColorStreamRealSenseSR300\obj\Debug\App.g.cs
+C:\Users\Co-op\Documents\Visual Studio 2015\Projects\3DColorStreamRealSenseSR300\3DColorStreamRealSenseSR300\obj\Debug\Face Detection Camera_MarkupCompile.cache
+C:\Users\Co-op\Documents\Visual Studio 2015\Projects\3DColorStreamRealSenseSR300\3DColorStreamRealSenseSR300\obj\Debug\Face Detection Camera_MarkupCompile.lref
+C:\Users\Co-op\Documents\Visual Studio 2015\Projects\3DColorStreamRealSenseSR300\3DColorStreamRealSenseSR300\obj\Debug\MainWindow.baml
+C:\Users\Co-op\Documents\Visual Studio 2015\Projects\3DColorStreamRealSenseSR300\3DColorStreamRealSenseSR300\obj\Debug\Face Detection Camera.g.resources
+C:\Users\Co-op\Documents\Visual Studio 2015\Projects\3DColorStreamRealSenseSR300\3DColorStreamRealSenseSR300\obj\Debug\_FaceDetectionCamera.Properties.Resources.resources
+C:\Users\Co-op\Documents\Visual Studio 2015\Projects\3DColorStreamRealSenseSR300\3DColorStreamRealSenseSR300\obj\Debug\FaceDetectionCamera.csproj.GenerateResource.Cache
+C:\Users\Co-op\Documents\Visual Studio 2015\Projects\3DColorStreamRealSenseSR300\3DColorStreamRealSenseSR300\obj\Debug\Face Detection Camera.exe
+C:\Users\Co-op\Documents\Visual Studio 2015\Projects\3DColorStreamRealSenseSR300\3DColorStreamRealSenseSR300\obj\Debug\Face Detection Camera.pdb
+C:\Users\Co-op\Documents\Visual Studio 2015\Projects\3DColorStreamRealSenseSR300\3DColorStreamRealSenseSR300\obj\Debug\FaceDetectionCamera.csprojResolveAssemblyReference.cache
+C:\Users\Co-op\Documents\Visual Studio 2015\Projects\HandGestureRealSense\3DColorStreamRealSenseSR300\3DColorStreamRealSenseSR300\bin\Debug\Face Detection Camera.exe.config
+C:\Users\Co-op\Documents\Visual Studio 2015\Projects\HandGestureRealSense\3DColorStreamRealSenseSR300\3DColorStreamRealSenseSR300\obj\Debug\Face Detection Camera.exe
+C:\Users\Co-op\Documents\Visual Studio 2015\Projects\HandGestureRealSense\3DColorStreamRealSenseSR300\3DColorStreamRealSenseSR300\obj\Debug\Face Detection Camera.pdb

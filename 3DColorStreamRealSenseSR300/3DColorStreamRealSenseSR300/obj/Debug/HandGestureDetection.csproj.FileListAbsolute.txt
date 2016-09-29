@@ -1,0 +1,14 @@
+C:\Users\Co-op\Documents\Visual Studio 2015\Projects\HandGestureRealSense\3DColorStreamRealSenseSR300\3DColorStreamRealSenseSR300\bin\Debug\HandGestureDetection.exe.config
+C:\Users\Co-op\Documents\Visual Studio 2015\Projects\HandGestureRealSense\3DColorStreamRealSenseSR300\3DColorStreamRealSenseSR300\bin\Debug\HandGestureDetection.exe
+C:\Users\Co-op\Documents\Visual Studio 2015\Projects\HandGestureRealSense\3DColorStreamRealSenseSR300\3DColorStreamRealSenseSR300\bin\Debug\HandGestureDetection.pdb
+C:\Users\Co-op\Documents\Visual Studio 2015\Projects\HandGestureRealSense\3DColorStreamRealSenseSR300\3DColorStreamRealSenseSR300\obj\Debug\HandGestureDetection.csprojResolveAssemblyReference.cache
+C:\Users\Co-op\Documents\Visual Studio 2015\Projects\HandGestureRealSense\3DColorStreamRealSenseSR300\3DColorStreamRealSenseSR300\obj\Debug\MainWindow.g.cs
+C:\Users\Co-op\Documents\Visual Studio 2015\Projects\HandGestureRealSense\3DColorStreamRealSenseSR300\3DColorStreamRealSenseSR300\obj\Debug\App.g.cs
+C:\Users\Co-op\Documents\Visual Studio 2015\Projects\HandGestureRealSense\3DColorStreamRealSenseSR300\3DColorStreamRealSenseSR300\obj\Debug\HandGestureDetection_MarkupCompile.cache
+C:\Users\Co-op\Documents\Visual Studio 2015\Projects\HandGestureRealSense\3DColorStreamRealSenseSR300\3DColorStreamRealSenseSR300\obj\Debug\HandGestureDetection_MarkupCompile.lref
+C:\Users\Co-op\Documents\Visual Studio 2015\Projects\HandGestureRealSense\3DColorStreamRealSenseSR300\3DColorStreamRealSenseSR300\obj\Debug\MainWindow.baml
+C:\Users\Co-op\Documents\Visual Studio 2015\Projects\HandGestureRealSense\3DColorStreamRealSenseSR300\3DColorStreamRealSenseSR300\obj\Debug\HandGestureDetection.g.resources
+C:\Users\Co-op\Documents\Visual Studio 2015\Projects\HandGestureRealSense\3DColorStreamRealSenseSR300\3DColorStreamRealSenseSR300\obj\Debug\_HandGestureDetection.Properties.Resources.resources
+C:\Users\Co-op\Documents\Visual Studio 2015\Projects\HandGestureRealSense\3DColorStreamRealSenseSR300\3DColorStreamRealSenseSR300\obj\Debug\HandGestureDetection.csproj.GenerateResource.Cache
+C:\Users\Co-op\Documents\Visual Studio 2015\Projects\HandGestureRealSense\3DColorStreamRealSenseSR300\3DColorStreamRealSenseSR300\obj\Debug\HandGestureDetection.exe
+C:\Users\Co-op\Documents\Visual Studio 2015\Projects\HandGestureRealSense\3DColorStreamRealSenseSR300\3DColorStreamRealSenseSR300\obj\Debug\HandGestureDetection.pdb

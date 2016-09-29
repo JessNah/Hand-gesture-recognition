@@ -1,0 +1,3 @@
+C:\Users\Co-op\Documents\Visual Studio 2015\Projects\3DColorStreamRealSenseSR300\3DColorStreamRealSenseSR300\obj\Debug\Face Detection Camera_MarkupCompile.cache
+C:\Users\Co-op\Documents\Visual Studio 2015\Projects\3DColorStreamRealSenseSR300\3DColorStreamRealSenseSR300\obj\Debug\Face Detection Camera.exe
+C:\Users\Co-op\Documents\Visual Studio 2015\Projects\3DColorStreamRealSenseSR300\3DColorStreamRealSenseSR300\obj\Debug\Face Detection Camera.pdb
